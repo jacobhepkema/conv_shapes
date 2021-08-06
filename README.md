@@ -1,2 +1,3 @@
 # conv_shapes
-don't think, let computer think
+
+Package for thinking about convolutions and transposed convolutions. Currently only has two functions for brute-forcing output shapes
